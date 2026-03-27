@@ -9,6 +9,6 @@ public class Child {
 		Thread t=new Thread();
 		System.out.println(t);
 		System.out.println("Welcome");
-
+         System.out.println("hi");
 	}
 }
